@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/30527940/README.md)
 # Archive Scout for Apple Silicon
 
 [Download the latest release](https://github.com/DearStrike4940/archive-scout-apple-silicon/releases/latest/download/ArchiveScout-macOS-Apple-Silicon.dmg)
