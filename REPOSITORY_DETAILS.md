@@ -6,4 +6,4 @@ Description: A resumable Apple Silicon macOS desktop app for configurable Waybac
 
 Topics: `wayback-machine`, `internet-archive`, `web-archiving`, `digital-preservation`, `python`, `cdx-api`, `osint`, `macos`
 
-Latest download: https://github.com/YOUR_GITHUB_USERNAME/archive-scout-apple-silicon/releases/latest/download/ArchiveScout-macOS-Apple-Silicon.dmg
+Latest download: https://github.com/DearStrike4940/archive-scout-apple-silicon/releases/latest/download/ArchiveScout-macOS-Apple-Silicon.dmg
